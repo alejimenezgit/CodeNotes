@@ -1,7 +1,6 @@
 # [Click aqui para ir a mi GitHub](https://github.com/alejimenezgit)
 
 ## Git – Commands Proyectos
--------------------------------------------------------------------------------
 Primero de todo estar en la carpeta donde quiero poner el proyecto
 
 Fork desde el github ( fork es para poder tener el proyecto de alguien y subir mis cambios)
@@ -21,13 +20,11 @@ Subir los cambios: 	git push origin master (o la rama que tenga)
 Enviar el trabajo:	Github pull request name: 	[BCN-WDPT-1219] - Alejandro Jiménez
 
 ## Git – Change branch
---------------------------------------------------------------------------------
 git checkout dev				==> cambiar a rama
 
 git checkout -b dev 				==> crear rama
 
 ## Git – Commands Info
---------------------------------------------------------------------------------
 iterm (recomendacion)
 
 root es el c de ubuntu
@@ -56,7 +53,6 @@ git diff index.html		ver las diferencias anteriores de los commits
 
 
 ## Git – Delete node modules if you push it
---------------------------------------------------------------------------------
 - Para eliminar nodemodules del github (una vez subido)
 - Tengo que crear el .gitignore y añadir el .node_modules
 - Luego ejecutar estas lineas de ejecución
@@ -67,7 +63,6 @@ git rm -r --cached node_modules
 ```
 
 ## Git – Subir Proyecto a github desde el terminal	
---------------------------------------------------------------------------------
 - Primero tengo que crear el proyecto en mi pc
 - Luego tengo que crear un nuevo repositorio en mi github
 - Para poderlo subir tengo que hacer estas lineas de ejecución
@@ -78,4 +73,3 @@ git remote -v
 git push -u origin master                      
 Y ya estaria listo en github 
 ```
-
