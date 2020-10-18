@@ -9,7 +9,7 @@ git clone (url sin ssh del github)
 
 ir a la carpeta cd y trabajar code .
 
-Añadir cambios:      git add .
+Añadir cambios:     git add .
 
 Guardar cambios: 	git commit -m "mensaje" 
 
