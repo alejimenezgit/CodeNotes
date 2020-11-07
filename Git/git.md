@@ -19,11 +19,12 @@ Subir los cambios: 	git push origin master (o la rama que tenga)
 
 Enviar el trabajo:	Github pull request name: 	[BCN-WDPT-1219] - Alejandro Jiménez
 
+<br/>
 ## Git – Change branch
 git checkout dev				==> cambiar a rama
 
 git checkout -b dev 				==> crear rama
-
+<br/><br/>
 ## Git – Commands Info
 iterm (recomendacion)
 
@@ -51,6 +52,7 @@ git init       			iniciailza el document en git
 
 git diff index.html		ver las diferencias anteriores de los commits
 
+<br>
 
 ## Git – Delete node modules if you push it
 - Para eliminar nodemodules del github (una vez subido)
@@ -61,6 +63,8 @@ git rm -r --cached node_modules
 git commit -m 'Remove the now ignored directory node_modules' <br/>
 git rm -r --cached node_modules
 ```
+
+<br/>
 
 ## Git – Subir Proyecto a github desde el terminal	
 - Primero tengo que crear el proyecto en mi pc
