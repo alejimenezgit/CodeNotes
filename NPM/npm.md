@@ -12,3 +12,8 @@ npm install axios
 npm install cors
 ```
 
+# Router 
+Rutas en React
+```
+npm install react-router-dom
+```
